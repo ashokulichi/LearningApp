@@ -1,0 +1,7 @@
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\LearningApp.exe
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\appsettings.Development.json
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\appsettings.json
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\LearningApp.dll
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\LearningApp.deps.json
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\LearningApp.runtimeconfig.json
+C:\Users\ashok\source\repos\Practice\AZ-204\LearningApp\bin\Publish\LearningApp.pdb
